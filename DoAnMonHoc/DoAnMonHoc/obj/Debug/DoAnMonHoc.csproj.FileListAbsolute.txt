@@ -1,1 +1,9 @@
 E:\GitHub\DoAn_TuDien\DoAnMonHoc\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe.config
+E:\GitHub\DoAn_TuDien\DoAnMonHoc\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe
+E:\GitHub\DoAn_TuDien\DoAnMonHoc\DoAnMonHoc\bin\Debug\DoAnMonHoc.pdb
+E:\GitHub\DoAn_TuDien\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.Main.resources
+E:\GitHub\DoAn_TuDien\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.GenerateResource.Cache
+E:\GitHub\DoAn_TuDien\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe
+E:\GitHub\DoAn_TuDien\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.pdb
+E:\GitHub\DoAn_TuDien\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.Properties.Resources.resources
+E:\GitHub\DoAn_TuDien\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.csprojResolveAssemblyReference.cache
